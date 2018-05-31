@@ -1,6 +1,3 @@
 [submodule "elementary-wallpapers"]
 	path = elementary-wallpapers
 	url = https://github.com/elementary/wallpapers
-[submodule "luke-wallpapers"]
-	path = luke-wallpapers
-	url = https://github.com/LukeSmithxyz/wallpapers
